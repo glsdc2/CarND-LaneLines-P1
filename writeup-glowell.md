@@ -6,12 +6,11 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-
 ### Reflection
 
 This has been an interesting project for me, as I have not previously used docker, jupyter notebooks, or the various python
-libraries in addtion to learning the concepts for project.  I was able to complete the project as well as process the
-challenge video.  
+libraries in addition to learning the concepts for project.  I was able to complete the project as well as process the
+challenge video.  I was suprised at how much time I spent on the color filtering.
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
