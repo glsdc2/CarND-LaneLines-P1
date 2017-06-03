@@ -1,11 +1,5 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
----
-
 **Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
@@ -15,8 +9,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./pipeline-images/Challenge_1-3.6-Original.png "Original"
-
+[image1]: ./pipeline-images/Challenge_1-3.6-Original.png "Original Image"
+[image2]: ./pipeline-images/Challenge_1-3.6-yellow-white-mask.png "HSL White/Yellow Mask"
+[image3]: ./pipeline-images/Challenge_1-3.6-color-filtered.png "Color Masked Image"
+[image4]: ./pipeline-images/Challenge_1-3.6-grayscale.png "Grayscale Image"
+[image5]: ./pipeline-images/Challenge_1-3.6-gaussian.png "Gaussian Kernel Size 9"
+[image6]: ./pipeline-images/Challenge_1-3.6-canny-edges.png  "Canny Edge Detection"
+[image7]: ./pipeline-images/Challenge_1-3.6-hough_lines.png "Hough Line Finding"
+[image8]: ./pipeline-images/Challenge_1-3.6-final.png "Final Image"
 ---
 
 ### Reflection
